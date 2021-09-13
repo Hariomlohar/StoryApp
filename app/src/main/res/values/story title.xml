@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="story_title">
+        <item> धीरूभाई अम्बानी</item>
+        <item>जिद और जुनून ने दिलाया गोल्ड</item>
+        <item> वर्नर हाइजेनबर्ग </item>
+        <item> महान् गणितज्ञ रामानुजन </item>
+         <item> चिन्ना स्वामी मनिअप्पा </item>
+        <item> अड़सठ की उम्र में हिमालय जीता</item>
+        <item> विल्मा रूडोल्फ</item>
+        <item>फोर्ड मोटर के मालिक: हेनरी फोर्ड</item>
+        <item> आत्म विजेता ही असली विजेता </item>
+         <item>सर एम विश्वेश्वरैया</item>
+    </string-array>
+</resources>

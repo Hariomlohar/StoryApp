@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Home"></item>
+
+    <item android:title="StoryApp">
+        <menu>
+            <item
+                android:id="@+id/random"
+                android:icon="@drawable/ic_baseline_transform_24"
+                android:title="Random Story"></item>
+            <item
+                android:id="@+id/stories"
+                android:icon="@drawable/ic_baseline_menu_book_24"
+                android:title="Stories"></item>
+            <item
+                android:id="@+id/catagries"
+                android:icon="@drawable/ic_baseline_subject_24"
+                android:title="Categries">
+
+            </item>
+        </menu>
+    </item>
+
+    <item android:title="more">
+        <menu>
+            <item
+                android:id="@+id/contact"
+                android:icon="@drawable/ic_baseline_phone_24"
+                android:title="Contact Us"></item>
+            <item
+                android:id="@+id/rate"
+                android:icon="@drawable/ic_baseline_star_rate_24"
+                android:title="Rate Us"></item>
+
+        </menu>
+    </item>
+
+</menu>

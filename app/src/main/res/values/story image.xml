@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string-array name="story_images">
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-VU3gDr3TLDH6HKyw0QuIaR-O100rMLd3gin_3nquojuIyorBAmWZPmrzehhMJQ3do3w&amp;usqp=CAU</item>
+        <item> https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHPQuMpJOoS4RmvWpSEIyvWb4p36GWHxHN4v7ZUyvGmWDON5WmXDmeeAUINrQw9Rw0bC8&amp;usqp=CAU</item>
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF77yOoHIg9qZlI6K3Nws-3ZbzV8fxgP-dl-VCo7EWm98zM9k5u-2c9LqFW0TZxPdoGK0&amp;usqp=CAU</item>
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKe4aBPYLEpQIqmantYk19QM6pvLlcnJ3T-xmBCNmHECxBdgzuaWZUp5jXs-NaPWw4-2E&amp;usqp=CAU</item>
+        <item>https://images.livemint.com/r/LiveMint/Period1/2010/08/08/Photos/7b4b0e76-abe4-400e-932c-e8c72752fbb2.jpg</item>
+        <item> https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtSUqwgm1srSOB7LP-gmB4T_ostYRFgU79ZyXEwZqOeJckYqmpY6r1lLyv4FyGGfKlKDo&amp;usqp=CAU
+</item>
+        <item>https://happyhindi.com/wp-content/uploads/2014/10/wilma-rudolph-champian.jpg
+</item>
+        <item>  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpgg4dztnHuPXCjYWxJn1VCtB0r5f_TmvhtcIxKt5T2ZXIuNj-DjETPpKIrUwKFa5_Tx4&amp;usqp=CAU
+</item>
+        <item>  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuqaqIyKRHItlElDBY8mgCW2N3xJE47RDaP7e00d75J2HCBMvTV2KnL2Hi8_7eYuimhXk&amp;usqp=CAU</item>
+        <item> https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc8RVj20fYYjCXb1XB6itR1VjoEr4twZWDiwEIC7gGCj7yTGUishfWXAhydMIOXuQEA7I&amp;usqp=CAU
+</item>
+    </string-array>
+</resources>
